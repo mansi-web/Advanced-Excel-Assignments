@@ -1,0 +1,5 @@
+Data Validation Assignment 
+Q1. Apply validation in cells A1 to A10 such that numbers can be entered in Ascending Order only 
+Q2. Apply validation in Cells B1 to B10 such that no duplicate entry can be done 
+Q3. Apply validation in cells C1:C10 such that only text beginning with 'A' can be entered 
+Q4. Create a list of different depts. like IT, Marketing, Finance, HR, Admin and apply it on column D
